@@ -1,0 +1,60 @@
+
+.wrapper-services {
+    overflow: hidden;
+    min-width: 1920px;
+    min-height:  2075px;
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    
+    background: url(./img/headline\ 1.png) no-repeat;
+    
+}
+
+
+.wrapper {
+  
+    min-width: 1920px;
+    min-height: 893px;
+      background: 
+      url(./img/1.png) no-repeat,
+       url(./img/2.png) no-repeat;
+       background-position: 0px 0px, top 1800px center;
+       
+    }
+
+    .container-header {
+        display: flex;
+        width: 1142px;
+    height: 135px;
+    justify-content: space-between;
+    }
+    .conteiner-header-services {
+        display: flex;
+        width: 1142px;
+    height: 135px;
+    margin-left: 0px;
+    margin-top: 4px;
+    justify-content: space-between;
+    }
+    .container-footer-services {
+        width: 1550px;
+    height: 132px;
+    background: #001821;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 390px;
+    }
+    .container-footer {
+        width: 1550px;
+    height: 132px;
+    background: #001821;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    
+    }
+    
